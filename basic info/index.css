@@ -1,0 +1,199 @@
+.registration {
+    margin-top: 50px;
+    font-family: "Poppins", sans-serif;
+}
+
+.registration .row {
+    justify-content: center;
+}
+
+
+/* basicinfo*/
+
+.basicinfo h5 {
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: white;
+}
+
+.basicinfo .row {
+    padding-top: 15px;
+}
+
+.basicinfo label {
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.basicinfo .basicinfo_name1 {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 45px;
+    border-radius: 8px;
+    border: 0.5px solid;
+}
+
+.basicinfo input {
+    font-size: 13px;
+    padding-left: 15px;
+}
+
+
+/* important clint info*/
+
+.importantclientinfo {
+    height: 100%;
+    margin-top: 10px;
+}
+
+.importantclientinfo h5 {
+    width: 100%;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: white;
+}
+
+.importantclientinfo p {
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+.importantclientinfo .label {
+    padding-top: 15px;
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.importantclientinfo .form-check-input {
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.importantclientinfo .form-check-label {
+    padding-top: 5px;
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.importantclientinfo .name-1 {
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid;
+    padding-bottom: 50px;
+    border-radius: 8px;
+    font-size: 13px;
+}
+
+.importantclientinfo .card-header {
+    background: white;
+}
+
+
+/* Additional info*/
+
+.additionalinfo {
+    margin-top: 20px;
+}
+
+.additionalinfo h5 {
+    width: 100%;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.additionalinfo .card-header {
+    background-color: white;
+}
+
+.additionalinfo .phone {
+    margin-top: 30px;
+}
+
+.additionalinfo .phone label {
+    padding-top: 5px;
+    font-weight: bold;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.additionalinfo .phone input {
+    height: 45px;
+    border-radius: 8px;
+    border: 0.5px solid;
+}
+
+
+/* Address*/
+
+.address {
+    margin-top: 10px;
+}
+
+.address .card-header {
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    background-color: white;
+}
+
+
+/* notification*/
+
+.notifications {
+    margin-bottom: 15px;
+}
+
+.notifications p {
+    font-size: 13px;
+}
+
+.notifications h5 {
+    width: 100%;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.notifications .card-4 {
+    margin-top: 15px;
+}
+
+.notifications .card1 {
+    border-bottom: 1px solid;
+}
+
+.notifications input {
+    font-size: 20px;
+}
+
+
+/* payments*/
+
+.payments h5 {
+    width: 100%;
+    padding-top: 10px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.payments .bottom1 {
+    border-bottom: 1px solid black;
+}
+
+.payments input {
+    font-size: 20px;
+}
+
+.payments p {
+    font-size: 13px;
+}
